@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("/background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+        overflow: hidden; /* Prevents content from overflowing the page */
+
+}
+#app-container {
+    position: relative;
+}
+
+#app {
+    position: relative;
+    z-index: 1;
+}
+
+#spotify-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100vh; /* This will make the overlay fit the screen vertically */
+    z-index: 2;
+}
+#spotify-overlay img {
+    width: auto; /* Adjust the width or height as needed */
+    height: 100%;
+}

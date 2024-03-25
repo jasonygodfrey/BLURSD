@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sushi Restaurant Kit (100+ Models!)
+* source:	https://sketchfab.com/3d-models/sushi-restaurant-kit-100-models-19605b53f8fe45bcbe167fab1bac43ed
+* author:	quaternius (https://sketchfab.com/quaternius)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sushi Restaurant Kit (100+ Models!)" (https://sketchfab.com/3d-models/sushi-restaurant-kit-100-models-19605b53f8fe45bcbe167fab1bac43ed) by quaternius (https://sketchfab.com/quaternius) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
