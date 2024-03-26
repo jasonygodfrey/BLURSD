@@ -40,9 +40,9 @@ export default function Home() {
     <div id="app">
         {/* Your app content goes here */}
     </div>
-    <div id="spotify-overlay">
-        <img src="spotify1.png" alt="Spotify" /> {/* Ensure the path is correct */}
-    </div>
+
+    <img src="/blursd.png" alt="Spotify" style={{ position: 'absolute', top: '1%', left: '10%', width: '25%', height: 'auto' }} />
+
 </div>
             {/* If your app.js has React code, you can import it here.
                 Otherwise, you'll need to refactor it to work with React and Next.js */}
